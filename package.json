@@ -1,7 +1,7 @@
 {
   "name": "iris",
   "version": "1.0.0",
-  "description": "Test 05",
+  "description": "Test 06",
   "main": "server/service.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
